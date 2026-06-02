@@ -29,7 +29,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/你的用户名/SmartVision-Studio.git
+git clone https://github.com/lOVE-o837/SmartVision-Studio.git
 cd SmartVision-Studio
 
 # 2. 安装依赖
@@ -65,4 +65,4 @@ V3.0 — 用户私人 AI 模型微调 + 云端同步
 欢迎提交 Issue 和 Pull Request！请先阅读 CONTRIBUTING.md。
 
 📄 许可证
-本项目基于 Apache License 2.0 开源。详见 LICENSE 文件。
+本项目基于 GNU General Public License v3.0 (GPLv3) 许可开源。详见 LICENSE 文件。
